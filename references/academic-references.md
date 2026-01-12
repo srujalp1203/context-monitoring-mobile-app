@@ -5,4 +5,3 @@
 3. Respiratory Rate Estimation Using Accelerometer Signals
 4. SQLite Database Design for Mobile Applications
 5. Android Application Architecture Guidelines
-
