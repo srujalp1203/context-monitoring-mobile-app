@@ -10,4 +10,3 @@ The application separates sensor interaction from UI logic.
 ## Data Flow
 - Raw sensor signals → preprocessing → estimation
 - Results are forwarded to application logic and UI
-
