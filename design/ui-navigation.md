@@ -13,4 +13,3 @@ The application follows a multi-activity navigation model.
 - Explicit user-driven transitions
 - Clear back-navigation paths
 - No hidden background state transitions
-
