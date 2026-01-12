@@ -16,4 +16,3 @@ The application uses a local SQLite database to persist physiological and sympto
 ## Usage
 - Records are written after each measurement session
 - History is retrieved for visualization and review
-
