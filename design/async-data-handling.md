@@ -16,4 +16,3 @@ The application relies on asynchronous data acquisition to ensure smooth user in
 - Responsive UI during measurements
 - Safe handling of sensor latency
 - Improved stability across devices
-
