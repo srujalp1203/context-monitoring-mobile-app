@@ -13,4 +13,3 @@ The application was validated using Android emulators and simulated sensor input
 - Accuracy depends on device hardware quality
 
 Overall, the system demonstrates a correct and stable end-to-end context monitoring pipeline.
-
