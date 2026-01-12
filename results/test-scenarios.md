@@ -14,4 +14,3 @@
 
 ## Persistence
 - Historical records persist across app restarts
-
